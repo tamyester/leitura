@@ -1,0 +1,12 @@
+body{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+  width: 95%;
+  margin: auto;
+
+  font-family: serif;
+  line-height: 1.2;
+  color: white
+}
